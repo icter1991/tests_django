@@ -1,12 +1,12 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+import time
 import unittest
 
 class NewVisitorTest(unittest.TestCase):
 
     def setUp(self):
         self.browser = webdriver.Firefox(executable_path=r'C:\Users\Ninja\PycharmProjects\geckodriver.exe')
-        self.browser.implicitly_wait(3)
 
     def tearDown(self):
         self.browser.quit()
@@ -17,28 +17,36 @@ class NewVisitorTest(unittest.TestCase):
         self.browser.get('http://localhost:8000')
 
         # Zwrocila uwage, ze tytul strony i naglowek zawieraja slowo Listy.
-        self.assertIn('Listy', self.browser.title)
+        self.assertIn('To-Do', self.browser.title)
         header_text = self.browser.find_element_by_tag_name('h1').text
-        self.fail('Listy', header_text)
+        self.assertIn('To-Do', header_text)
 
         # Od razu zostaje zachecona, aby wpisac rzecz do zrobienia.
         inputbox = self.browser.find_element_by_id('id_new_item')
-        self.assertEqual(inputbox.get_attribute('placeholder'), 'Wpisz rzecz do zrobienia')
+        self.assertEqual(
+            inputbox.get_attribute('placeholder'),
+            'Enter a to-do item'
+        )
 
         # W polu tekstowym wpisala "Kupic pawie piora"(hobby Edyty
         # polega na tworzeniu ozdobnych przynent).
-        inputbox.send_keys('Kupic pawie piora')
+        inputbox.send_keys('Buy peacock feathers')
 
         # Po nacisnieciu klawisza Enter strona zostala uaktualniona i wyswietla
         # "1: Kupic pawie piora" jako element listy rzeczy do zrobienia.
         inputbox.send_keys(Keys.ENTER)
+        time.sleep(1)
+
         table = self.browser.find_element_by_id('id_list_table')
-        rows = table.find_elements_by_tag_name('tr')
-        self.assertTrue(any(row.text == '1: Kupic pawie piora' for row in rows))
+        rows = table.find_element_by_tag_name('tr')
+        self.assertTrue(
+            any(row.text == '1: Buy peacock feathers' for row in rows),
+            "New to-do ited did not appear in table"
+        )
 
         # Na stronie nadal znajduje sie pole tekstowe zachecajace do podania kolejnego zadania.
         # Edyta wpisala "Uzyc pawich pior do zrobienia przynety" (Edyta jest niezwykle skrupulatna).
-        self.fail('Zakonczenie testu!')
+        self.fail('Finish the test')
 
     # Strona zostala ponownie uaktualniona i teraz wyswietla dwa elementy na liscie rzeczy do zrobienia.
 
