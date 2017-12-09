@@ -39,7 +39,7 @@ class NewVisitorTest(unittest.TestCase):
         # Na stronie nadal znajduje sie pole tekstowe zachecajace do podania kolejnego zadania.
         # Edyta wpisala "Uzyc pawich pior do zrobienia przynety" (Edyta jest niezwykle skrupulatna).
         self.fail('Zakonczenie testu!')
-        
+
     # Strona zostala ponownie uaktualniona i teraz wyswietla dwa elementy na liscie rzeczy do zrobienia.
 
     # Edyta byla ciekawa, czy witryna zapamieta jej liste. Zwrocila uwage na wygenerowany dla niej
