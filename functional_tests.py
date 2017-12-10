@@ -38,20 +38,25 @@ class NewVisitorTest(unittest.TestCase):
         time.sleep(1)
 
         table = self.browser.find_element_by_id('id_list_table')
-        rows = table.find_element_by_tag_name('tr')
-        self.assertTrue(
-            any(row.text == '1: Buy peacock feathers' for row in rows),
-            "New to-do ited did not appear in table"
-        )
+        rows = table.find_elements_by_tag_name('tr')
+        self.assertIn('1: Buy peacock feathers', [row.text for row in rows])
 
         # Na stronie nadal znajduje sie pole tekstowe zachecajace do podania kolejnego zadania.
         # Edyta wpisala "Uzyc pawich pior do zrobienia przynety" (Edyta jest niezwykle skrupulatna).
+        inputbox = self.browser.find_element_by_id('id_new_item')
+        inputbox.send_keys('Use peacock feathers to make fly')
+        inputbox.send_keys(Keys.ENTER)
+        time.sleep(1)
+
+        # Strona zostala ponownie uaktualniona i teraz wyswietla dwa elementy na liscie rzeczy do zrobienia.
+        table = self.browser.find_element_by_id('id_list_table')
+        rows = table.find_elements_by_tag_name('tr')
+        self.assertIn('1: Buy peacock feathers', [row.text for row in rows])
+        self.assertIn('2: Use peacock feathers to make fly', [row.text for row in rows])
+
+        # Edyta byla ciekawa, czy witryna zapamieta jej liste. Zwrocila uwage na wygenerowany dla niej
+        # unikatowy adres URL, obok ktorego znajduje sie pewien tekst z wyjasnieniem.
         self.fail('Finish the test')
-
-    # Strona zostala ponownie uaktualniona i teraz wyswietla dwa elementy na liscie rzeczy do zrobienia.
-
-    # Edyta byla ciekawa, czy witryna zapamieta jej liste. Zwrocila uwage na wygenerowany dla niej
-    # unikatowy adres URL, obok ktorego znajduje sie pewien tekst z wyjasnieniem.
 
     # Przechodzi pod podany adres URL i widzi wyswietlona swoja liste rzeczy do zrobienia.
 
