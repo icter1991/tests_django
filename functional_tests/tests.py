@@ -7,7 +7,7 @@ import unittest
 class NewVisitorTest(LiveServerTestCase):
 
     def setUp(self):
-        self.browser = webdriver.Firefox(executable_path=r'C:\Users\Ninja\PycharmProjects\geckodriver.exe')
+        self.browser = webdriver.Firefox(executable_path=r'H:/geckodriver.exe')
 
     def tearDown(self):
         self.browser.quit()
