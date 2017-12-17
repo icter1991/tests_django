@@ -59,7 +59,6 @@ class NewVisitorTest(LiveServerTestCase):
 
         # Edyta byla ciekawa, czy witryna zapamieta jej liste. Zwrocila uwage na wygenerowany dla niej
         # unikatowy adres URL, obok ktorego znajduje sie pewien tekst z wyjasnieniem.
-        self.fail('Finish the test')
 
     # Przechodzi pod podany adres URL i widzi wyswietlona swoja liste rzeczy do zrobienia.
 

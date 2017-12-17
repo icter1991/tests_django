@@ -2088,3 +2088,236 @@ Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrp
 1513542624828	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:54597/"
 Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
 [Child 4752, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1513543466966	geckodriver	INFO	geckodriver 0.19.1
+1513543466974	geckodriver	INFO	Listening on 127.0.0.1:54752
+1513543467589	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ninja\\AppData\\Local\\Temp\\rust_mozprofile.KSYeDH1YL9ap"
+1513543468310	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513543469720	Marionette	INFO	Listening on port 54756
+1513543470201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513543470260	Marionette	DEBUG	Register listener.js for window 4294967297
+1513543470279	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513543470303	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513543470303	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513543470310	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:54751/"
+1513543470324	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:54751/"
+1513543472994	geckodriver	INFO	geckodriver 0.19.1
+1513543473001	geckodriver	INFO	Listening on 127.0.0.1:54807
+1513543473605	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ninja\\AppData\\Local\\Temp\\rust_mozprofile.m1D3H5osudPF"
+1513543474292	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513543475705	Marionette	INFO	Listening on port 54811
+1513543475722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513543475780	Marionette	DEBUG	Register listener.js for window 4294967297
+1513543475846	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513543475866	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513543475867	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513543475873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:54751/"
+1513543475884	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:54751/"
+1513543477416	geckodriver	INFO	geckodriver 0.19.1
+1513543477424	geckodriver	INFO	Listening on 127.0.0.1:54843
+1513543478022	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ninja\\AppData\\Local\\Temp\\rust_mozprofile.eukudRcXWeqp"
+1513543478687	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513543480128	Marionette	INFO	Listening on port 54847
+1513543480142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513543480202	Marionette	DEBUG	Register listener.js for window 4294967297
+1513543480274	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513543480307	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513543480308	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513543480323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:54751/"
+1513543480324	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:54751/"
+1513544395435	geckodriver	INFO	geckodriver 0.19.1
+1513544395443	geckodriver	INFO	Listening on 127.0.0.1:54902
+1513544396028	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ninja\\AppData\\Local\\Temp\\rust_mozprofile.d6d80mXeXIHQ"
+1513544396767	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513544398250	Marionette	INFO	Listening on port 54906
+1513544398637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513544398698	Marionette	DEBUG	Register listener.js for window 4294967297
+1513544398715	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513544398738	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513544398739	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513544398745	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:54901/"
+1513544398755	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:54901/"
+1513544401423	geckodriver	INFO	geckodriver 0.19.1
+1513544401431	geckodriver	INFO	Listening on 127.0.0.1:54950
+1513544402036	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ninja\\AppData\\Local\\Temp\\rust_mozprofile.bexhh8g8MYoQ"
+1513544402712	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513544404106	Marionette	INFO	Listening on port 54954
+1513544404154	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513544404213	Marionette	DEBUG	Register listener.js for window 4294967297
+1513544404256	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513544404290	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513544404290	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513544404296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:54901/"
+1513544404305	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:54901/"
+1513544405877	geckodriver	INFO	geckodriver 0.19.1
+1513544405885	geckodriver	INFO	Listening on 127.0.0.1:54985
+1513544406458	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ninja\\AppData\\Local\\Temp\\rust_mozprofile.SUtB1JUYiwmw"
+1513544407168	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513544408575	Marionette	INFO	Listening on port 54989
+1513544409075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513544409135	Marionette	DEBUG	Register listener.js for window 4294967297
+1513544409155	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513544409170	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513544409170	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513544409178	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:54901/"
+1513544409192	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:54901/"
+1513544884215	geckodriver	INFO	geckodriver 0.19.1
+1513544884224	geckodriver	INFO	Listening on 127.0.0.1:55033
+1513544884826	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ninja\\AppData\\Local\\Temp\\rust_mozprofile.3swMP7OpyzRu"
+1513544885510	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513544886916	Marionette	INFO	Listening on port 55037
+1513544886947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513544887005	Marionette	DEBUG	Register listener.js for window 4294967297
+1513544887061	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513544887102	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513544887103	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513544887109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:55032/"
+1513544887119	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:55032/"
+1513544889821	geckodriver	INFO	geckodriver 0.19.1
+1513544889829	geckodriver	INFO	Listening on 127.0.0.1:55081
+1513544890435	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ninja\\AppData\\Local\\Temp\\rust_mozprofile.1yqo4PoE9QQ1"
+1513544891111	Marionette	INFO	Enabled via --marionette
+1513544892576	Marionette	INFO	Listening on port 55085
+1513544893048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513544893108	Marionette	DEBUG	Register listener.js for window 4294967297
+1513544893128	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513544893143	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513544893143	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513544893152	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:55032/"
+1513544893163	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:55032/"
+1513544894671	geckodriver	INFO	geckodriver 0.19.1
+1513544894680	geckodriver	INFO	Listening on 127.0.0.1:55120
+1513544895265	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ninja\\AppData\\Local\\Temp\\rust_mozprofile.COLseHGzaedt"
+1513544895956	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513544897424	Marionette	INFO	Listening on port 55124
+1513544897876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513544897939	Marionette	DEBUG	Register listener.js for window 4294967297
+1513544897965	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513544897982	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513544897983	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513544897990	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:55032/"
+1513544898000	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:55032/"
+1513546144317	geckodriver	INFO	geckodriver 0.19.1
+1513546144324	geckodriver	INFO	Listening on 127.0.0.1:55183
+1513546144938	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ninja\\AppData\\Local\\Temp\\rust_mozprofile.l0Uk94GisLji"
+1513546145593	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513546147038	Marionette	INFO	Listening on port 55187
+1513546147073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513546147132	Marionette	DEBUG	Register listener.js for window 4294967297
+1513546147164	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513546147194	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513546147194	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513546147210	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:55182/"
+1513546147212	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:55182/"
+1513546149945	geckodriver	INFO	geckodriver 0.19.1
+1513546149953	geckodriver	INFO	Listening on 127.0.0.1:55237
+1513546150554	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ninja\\AppData\\Local\\Temp\\rust_mozprofile.GhQhRyRaul4z"
+1513546151199	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513546152636	Marionette	INFO	Listening on port 55241
+1513546152675	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513546152736	Marionette	DEBUG	Register listener.js for window 4294967297
+1513546152771	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513546152792	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513546152793	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513546152799	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:55182/"
+1513546152810	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:55182/"
+1513546154333	geckodriver	INFO	geckodriver 0.19.1
+1513546154341	geckodriver	INFO	Listening on 127.0.0.1:55272
+1513546154955	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ninja\\AppData\\Local\\Temp\\rust_mozprofile.NtAuFFnW0fBf"
+1513546155606	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513546157002	Marionette	INFO	Listening on port 55276
+1513546157077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513546157140	Marionette	DEBUG	Register listener.js for window 4294967297
+1513546157162	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513546157195	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513546157195	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513546157204	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:55182/"
+1513546157215	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:55182/"
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2324, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1513546194721	geckodriver	INFO	geckodriver 0.19.1
+1513546194734	geckodriver	INFO	Listening on 127.0.0.1:55312
+1513546195338	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ninja\\AppData\\Local\\Temp\\rust_mozprofile.THqdoBW0KRS3"
+1513546195984	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9656, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513546197330	Marionette	INFO	Listening on port 55316
+1513546197452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513546197511	Marionette	DEBUG	Register listener.js for window 4294967297
+1513546197532	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513546197566	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513546197566	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513546197573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:55311/"
+1513546197583	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:55311/"
+1513546200334	geckodriver	INFO	geckodriver 0.19.1
+1513546200341	geckodriver	INFO	Listening on 127.0.0.1:55366
+1513546200945	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ninja\\AppData\\Local\\Temp\\rust_mozprofile.JTUzScznF9GD"
+1513546201590	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513546202978	Marionette	INFO	Listening on port 55370
+1513546203071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513546203130	Marionette	DEBUG	Register listener.js for window 4294967297
+1513546203164	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513546203187	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513546203188	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513546203195	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:55311/"
+1513546203206	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:55311/"
+1513546204753	geckodriver	INFO	geckodriver 0.19.1
+1513546204761	geckodriver	INFO	Listening on 127.0.0.1:55403
+1513546205363	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ninja\\AppData\\Local\\Temp\\rust_mozprofile.lsxfpER1mL3D"
+1513546205999	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513546207421	Marionette	INFO	Listening on port 55407
+1513546207482	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513546207549	Marionette	DEBUG	Register listener.js for window 4294967297
+1513546207593	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513546207614	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513546207614	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513546207630	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:55311/"
+1513546207632	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:55311/"
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
