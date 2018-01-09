@@ -4038,3 +4038,316 @@ Unable to read VR Path Registry from C:\Users\Ninja\AppData\Local\openvr\openvrp
 1513638019525	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:60381/lists/4/"
 1513638019530	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:60381/lists/4/"
 1513638019566	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:60381/lists/4/"
+1513895389897	geckodriver	INFO	Listening on 127.0.0.1:46995
+1513895390937	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1513895391574	Marionette	INFO	Enabled via --marionette
+1513895392792	Marionette	INFO	Listening on port 39501
+1513895392857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513895392923	Marionette	DEBUG	Register listener.js for window 2147483649
+1513895392967	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513895392998	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513895392998	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513895393007	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:52227/"
+1513895393081	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:52227/"
+1513895395412	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:52227/lists/1/"
+1513895395434	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:52227/lists/1/"
+1513895395434	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:52227/lists/1/"
+1513895395442	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:52227/lists/1/"
+1513895395472	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:52227/lists/1/"
+[Child 10988, Chrome_ChildThread] WARNING: pipe error (34): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10988, Chrome_ChildThread] WARNING: pipe error (19): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10988, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513895395593	geckodriver	INFO	Listening on 127.0.0.1:46419
+1513895396637	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1513895397234	Marionette	INFO	Enabled via --marionette
+1513895398499	Marionette	INFO	Listening on port 33543
+1513895398558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513895398626	Marionette	DEBUG	Register listener.js for window 2147483649
+1513895398652	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513895398685	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513895398686	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513895398696	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:52227/"
+1513895398799	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:52227/"
+1513895400022	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:52227/lists/2/"
+1513895400038	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:52227/lists/2/"
+1513895400038	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:52227/lists/2/"
+1513895400045	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:52227/lists/2/"
+1513895400073	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:52227/lists/2/"
+[Child 11144, Chrome_ChildThread] WARNING: pipe error (34): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11144, Chrome_ChildThread] WARNING: pipe error (19): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11144, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513895400199	geckodriver	INFO	Listening on 127.0.0.1:52785
+1513895401246	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1513895401835	Marionette	INFO	Enabled via --marionette
+1513895403060	Marionette	INFO	Listening on port 35841
+1513895403171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513895403238	Marionette	DEBUG	Register listener.js for window 2147483649
+1513895403277	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513895403296	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513895403296	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513895403301	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:52227/"
+1513895403393	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:52227/"
+[Child 11299, Chrome_ChildThread] WARNING: pipe error (15): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11299, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513895404645	geckodriver	INFO	Listening on 127.0.0.1:33595
+1513895405692	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1513895406274	Marionette	INFO	Enabled via --marionette
+1513895407483	Marionette	INFO	Listening on port 40109
+1513895407506	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513895407571	Marionette	DEBUG	Register listener.js for window 2147483649
+1513895407615	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513895407636	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513895407636	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513895407645	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:52227/"
+1513895407732	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:52227/"
+1513895408985	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:52227/lists/4/"
+1513895409000	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:52227/lists/4/"
+1513895409000	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:52227/lists/4/"
+1513895409005	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:52227/lists/4/"
+1513895409039	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:52227/lists/4/"
+[Child 11451, Chrome_ChildThread] WARNING: pipe error (19): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11451, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513895602419	geckodriver	INFO	Listening on 127.0.0.1:49645
+1513895603460	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1513895604069	Marionette	INFO	Enabled via --marionette
+1513895605398	Marionette	INFO	Listening on port 43257
+1513895605478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513895605542	Marionette	DEBUG	Register listener.js for window 2147483649
+1513895605558	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513895605589	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513895605589	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513895605599	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:39031/"
+1513895605672	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:39031/"
+1513895607978	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:39031/lists/1/"
+1513895608001	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:39031/lists/1/"
+1513895608001	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:39031/lists/1/"
+1513895608006	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:39031/lists/1/"
+1513895608038	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:39031/lists/1/"
+[Child 11736, Chrome_ChildThread] WARNING: pipe error (19): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11736, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513895608168	geckodriver	INFO	Listening on 127.0.0.1:49521
+1513895609213	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1513895609794	Marionette	INFO	Enabled via --marionette
+1513895611016	Marionette	INFO	Listening on port 45511
+1513895611072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513895611137	Marionette	DEBUG	Register listener.js for window 2147483649
+1513895611165	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513895611185	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513895611185	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513895611192	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:39031/"
+1513895611285	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:39031/"
+1513895612500	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:39031/lists/2/"
+1513895612519	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:39031/lists/2/"
+1513895612520	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:39031/lists/2/"
+1513895612524	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:39031/lists/2/"
+1513895612562	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:39031/lists/2/"
+[Child 11893, Chrome_ChildThread] WARNING: pipe error (20): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11893, Chrome_ChildThread] WARNING: pipe error (34): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11893, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513895612696	geckodriver	INFO	Listening on 127.0.0.1:34007
+1513895613744	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1513895614365	Marionette	INFO	Enabled via --marionette
+1513895615604	Marionette	INFO	Listening on port 40061
+1513895615663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513895615728	Marionette	DEBUG	Register listener.js for window 2147483649
+1513895615758	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513895615788	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513895615788	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513895615794	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:39031/"
+1513895615873	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:39031/"
+[Child 12051, Chrome_ChildThread] WARNING: pipe error (20): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12051, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513895617166	geckodriver	INFO	Listening on 127.0.0.1:36003
+1513895618218	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1513895618830	Marionette	INFO	Enabled via --marionette
+1513895620081	Marionette	INFO	Listening on port 36991
+1513895620141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513895620209	Marionette	DEBUG	Register listener.js for window 2147483649
+1513895620248	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513895620263	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513895620264	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513895620269	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:39031/"
+1513895620365	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:39031/"
+1513895621591	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:39031/lists/4/"
+1513895621607	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:39031/lists/4/"
+1513895621608	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:39031/lists/4/"
+1513895621616	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:39031/lists/4/"
+1513895621644	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:39031/lists/4/"
+[Child 12201, Chrome_ChildThread] WARNING: pipe error (19): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12201, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513895688538	geckodriver	INFO	Listening on 127.0.0.1:39387
+1513895689585	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1513895690194	Marionette	INFO	Enabled via --marionette
+1513895691336	Marionette	INFO	Listening on port 45167
+1513895691433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513895691501	Marionette	DEBUG	Register listener.js for window 2147483649
+1513895691551	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513895691648	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513895691650	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513895691651	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513895691681	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+1513895691696	Marionette	DEBUG	Received DOM event "beforeunload" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+1513895691720	Marionette	DEBUG	Received DOM event "beforeunload" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+1513895691722	Marionette	DEBUG	Received DOM event "pagehide" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+1513895691722	Marionette	DEBUG	Received DOM event "unload" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+1513895691739	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+1513895691791	geckodriver	INFO	Listening on 127.0.0.1:37497
+1513895692834	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1513895693420	Marionette	INFO	Enabled via --marionette
+1513895694769	Marionette	INFO	Listening on port 41897
+1513895694847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513895694918	Marionette	DEBUG	Register listener.js for window 2147483649
+1513895694950	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513895694996	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513895694997	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513895694997	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513895695026	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+1513895695035	Marionette	DEBUG	Received DOM event "beforeunload" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+1513895695061	Marionette	DEBUG	Received DOM event "beforeunload" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+1513895695069	Marionette	DEBUG	Received DOM event "pagehide" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+1513895695069	Marionette	DEBUG	Received DOM event "unload" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+1513895695084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+1513895695130	geckodriver	INFO	Listening on 127.0.0.1:34945
+1513895696175	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1513895696737	Marionette	INFO	Enabled via --marionette
+1513895697932	Marionette	INFO	Listening on port 43251
+1513895698007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513895698076	Marionette	DEBUG	Register listener.js for window 2147483649
+1513895698109	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513895698140	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513895698142	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513895698142	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513895698180	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+1513895698200	Marionette	DEBUG	Received DOM event "beforeunload" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+1513895698254	Marionette	DEBUG	Received DOM event "beforeunload" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+1513895698256	Marionette	DEBUG	Received DOM event "pagehide" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+1513895698257	Marionette	DEBUG	Received DOM event "unload" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+1513895698274	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=Firefox%20nie%20mo%C5%BCe%20nawi%C4%85za%C4%87%20po%C5%82%C4%85czenia%20z%C2%A0serwerem%20superlists-staging.ottg.eu."
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515534504345	geckodriver	INFO	Listening on 127.0.0.1:43297
+1515534505394	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1515534506045	Marionette	INFO	Enabled via --marionette
+1515534507274	Marionette	INFO	Listening on port 38967
+1515534507318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515534507383	Marionette	DEBUG	Register listener.js for window 2147483649
+1515534507420	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515534507462	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515534507462	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515534507469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:40653/"
+1515534507543	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:40653/"
+1515534509899	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:40653/lists/1/"
+1515534509919	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:40653/lists/1/"
+1515534509919	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:40653/lists/1/"
+1515534509927	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:40653/lists/1/"
+1515534509960	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:40653/lists/1/"
+[Child 3868, Chrome_ChildThread] WARNING: pipe error (15): Połączenie zerwane przez drugą stronę: file /build/firefox-ooc0Pu/firefox-57.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3868, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-ooc0Pu/firefox-57.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1515534510108	geckodriver	INFO	Listening on 127.0.0.1:34639
+1515534511158	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1515534511724	Marionette	INFO	Enabled via --marionette
+1515534512932	Marionette	INFO	Listening on port 42391
+1515534512987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515534513056	Marionette	DEBUG	Register listener.js for window 2147483649
+1515534513091	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515534513112	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515534513112	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515534513122	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:40653/"
+1515534513211	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:40653/"
+1515534514437	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:40653/lists/2/"
+1515534514456	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:40653/lists/2/"
+1515534514456	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:40653/lists/2/"
+1515534514463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:40653/lists/2/"
+1515534514489	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:40653/lists/2/"
+[Child 4031, Chrome_ChildThread] WARNING: pipe error (20): Połączenie zerwane przez drugą stronę: file /build/firefox-ooc0Pu/firefox-57.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4031, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-ooc0Pu/firefox-57.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1515534514622	geckodriver	INFO	Listening on 127.0.0.1:55341
+1515534515667	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1515534516240	Marionette	INFO	Enabled via --marionette
+1515534517379	Marionette	INFO	Listening on port 40343
+1515534517486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515534517551	Marionette	DEBUG	Register listener.js for window 2147483649
+1515534517570	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515534517595	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515534517595	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515534517604	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:40653/"
+1515534517687	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:40653/"
+[Child 4194, Chrome_ChildThread] WARNING: pipe error (19): Połączenie zerwane przez drugą stronę: file /build/firefox-ooc0Pu/firefox-57.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4194, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-ooc0Pu/firefox-57.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1515534518978	geckodriver	INFO	Listening on 127.0.0.1:33771
+1515534520027	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1515534520644	Marionette	INFO	Enabled via --marionette
+1515534521952	Marionette	INFO	Listening on port 35793
+1515534522038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515534522103	Marionette	DEBUG	Register listener.js for window 2147483649
+1515534522119	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515534522134	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515534522135	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515534522144	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:40653/"
+1515534522220	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:40653/"
+1515534523425	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:40653/lists/4/"
+1515534523440	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:40653/lists/4/"
+1515534523440	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:40653/lists/4/"
+1515534523445	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:40653/lists/4/"
+1515534523479	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:40653/lists/4/"
+[Child 4346, Chrome_ChildThread] WARNING: pipe error (15): Połączenie zerwane przez drugą stronę: file /build/firefox-ooc0Pu/firefox-57.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4346, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-ooc0Pu/firefox-57.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1515534675386	geckodriver	INFO	Listening on 127.0.0.1:59347
+1515534676434	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1515534677054	Marionette	INFO	Enabled via --marionette
+1515534678202	Marionette	INFO	Listening on port 37843
+1515534678255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515534678326	Marionette	DEBUG	Register listener.js for window 2147483649
+1515534678344	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515534678470	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515534678471	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515534678481	Marionette	DEBUG	Received DOM event "pageshow" for "http://superlists-staging.ottg.ue/"
+1515534678484	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://superlists-staging.ottg.ue/"
+1515534679532	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534679614	Marionette	DEBUG	Received DOM event "pageshow" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534679638	Marionette	DEBUG	Received DOM event "beforeunload" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534680273	Marionette	DEBUG	Received DOM event "pagehide" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534680273	Marionette	DEBUG	Received DOM event "unload" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534680293	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534680344	Marionette	DEBUG	Received DOM event "pageshow" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+[Child 4554, Chrome_ChildThread] WARNING: pipe error (19): Połączenie zerwane przez drugą stronę: file /build/firefox-ooc0Pu/firefox-57.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4554, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-ooc0Pu/firefox-57.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1515534680493	geckodriver	INFO	Listening on 127.0.0.1:36463
+1515534681542	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1515534682135	Marionette	INFO	Enabled via --marionette
+1515534683342	Marionette	INFO	Listening on port 35057
+1515534683397	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515534683460	Marionette	DEBUG	Register listener.js for window 2147483649
+1515534683480	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515534683592	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515534683592	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515534683600	Marionette	DEBUG	Received DOM event "pageshow" for "http://superlists-staging.ottg.ue/"
+1515534683605	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://superlists-staging.ottg.ue/"
+1515534684256	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534684341	Marionette	DEBUG	Received DOM event "pageshow" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534684390	Marionette	DEBUG	Received DOM event "beforeunload" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534685203	Marionette	DEBUG	Received DOM event "pagehide" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534685204	Marionette	DEBUG	Received DOM event "unload" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534685224	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534685346	Marionette	DEBUG	Received DOM event "pageshow" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534685476	geckodriver	INFO	Listening on 127.0.0.1:36823
+1515534686524	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1515534687117	Marionette	INFO	Enabled via --marionette
+1515534688295	Marionette	INFO	Listening on port 33313
+1515534688369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515534688437	Marionette	DEBUG	Register listener.js for window 2147483649
+1515534688480	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515534688576	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515534688577	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515534688588	Marionette	DEBUG	Received DOM event "pageshow" for "http://superlists-staging.ottg.ue/"
+1515534688592	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://superlists-staging.ottg.ue/"
+1515534689195	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534689307	Marionette	DEBUG	Received DOM event "pageshow" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534689327	Marionette	DEBUG	Received DOM event "beforeunload" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534690055	Marionette	DEBUG	Received DOM event "pagehide" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534690056	Marionette	DEBUG	Received DOM event "unload" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534690077	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+1515534690175	Marionette	DEBUG	Received DOM event "pageshow" for "http://advancedsearch2.virginmedia.com/main?ParticipantID=jqlc435patgs4w79dx7g33u8otdryt35&FailedURI=http%3A%2F%2Fsuperlists-staging.ottg.ue%2F&FailureMode=1&Implementation=&AddInType=4&Version=pywr1.0&ClientLocation=uk"
+[Child 4839, Chrome_ChildThread] WARNING: pipe error (19): Połączenie zerwane przez drugą stronę: file /build/firefox-ooc0Pu/firefox-57.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4839, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-ooc0Pu/firefox-57.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

@@ -5,10 +5,12 @@ from selenium.common.exceptions import WebDriverException
 import time
 import unittest
 import os
+import sys
 
 MAX_WAIT = 10
 
 class NewVisitorTest(StaticLiveServerTestCase):
+
 
     def setUp(self):
         self.browser = webdriver.Firefox()
