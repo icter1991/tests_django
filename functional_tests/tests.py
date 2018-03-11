@@ -4,13 +4,19 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import WebDriverException
 import time
 import unittest
+import os
+import sys
 
 MAX_WAIT = 10
 
 class NewVisitorTest(StaticLiveServerTestCase):
 
+
     def setUp(self):
-        self.browser = webdriver.Firefox(executable_path=r'H:/geckodriver.exe')
+        self.browser = webdriver.Firefox()
+        staging_server = os.environ.get('STAGING_SERVER')
+        if staging_server:
+            self.live_server_url = 'http://' + staging_server
 
     def tearDown(self):
         self.browser.refresh()
@@ -86,7 +92,7 @@ class NewVisitorTest(StaticLiveServerTestCase):
         ## We use a new browser session to make sure that no information
         ## of Edith's is coming throw from cookies etc
         self.browser.quit()
-        self.browser = webdriver.Firefox(executable_path=r'H:/geckodriver.exe')
+        self.browser = webdriver.Firefox()
 
         ## Francis visites the home page. There is no sign of Edith's list
         self.browser.get(self.live_server_url)
